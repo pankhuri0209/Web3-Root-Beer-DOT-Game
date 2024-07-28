@@ -136,9 +136,9 @@ const createTruckIcon = (data, type) => {
     html: `<div class="custom-truck-icon">
       <img src="${truck}" class="icon"/>
       <span class="icon-label">Week: ${data.Week}</span><br/>
-      <span class="icon-label">Incoming Orders from ${type}: ${
-      data[`Incoming Orders  ${type}`]
-    }</span><br/>
+      <span class="icon-label">Incoming Orders : ${
+        data[`Incoming Orders`]
+      }</span><br/>
       <span class="icon-label">Supply: ${data.Supply}</span><br/>
       <span class="icon-label">Inventory: ${data.Inventory}</span>
     </div>`,
