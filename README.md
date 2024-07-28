@@ -1,4 +1,4 @@
-# Project Title
+# WEB3 ROOTBEER DOT GAME
 
 WEB3 ROOTBEER DOT GAME is the Web 3 implementation of the supply chain excellence (originally ideated at MIT in 1960 and then developed in web2 by Harvard Publishing) that opens up a new avenue in Web 3 gaming for RWA @ scale for supply chain financing.
 
