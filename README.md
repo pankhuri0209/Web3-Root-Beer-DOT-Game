@@ -30,18 +30,25 @@ ZK for proof abstractions off-chain
 
 https://www.canva.com/design/DAGMN45zbkw/ccjFXDCS5UbSkpLWk81Wqw/view?utm_content=DAGMN45zbkw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
 
-##Demo
+## Demo
 
 https://youtu.be/LgSRfNK9fFg
 
 ## Images
 <img width="941" alt="image" src="https://github.com/user-attachments/assets/b0e78d20-1bc2-4867-a881-a322502e7b39">
+
 ![image](https://github.com/user-attachments/assets/595bea77-7d31-47c7-9beb-5408c783093b)
+
 ![image](https://github.com/user-attachments/assets/78c2ea19-f9ec-4d72-8940-7d5b0d3d751a)
+
 ![image](https://github.com/user-attachments/assets/118efa0c-4457-4530-95e4-b6bd013c7adc)
+
 ![image](https://github.com/user-attachments/assets/85753fd9-a336-4339-be20-85eac7c51fe0)
+
 ![image](https://github.com/user-attachments/assets/602de056-9df4-4174-9928-f1045b47fed1)
+
 ![image](https://github.com/user-attachments/assets/b840a536-fbb2-40df-8fa9-45bcde6360b6)
+
 ![image](https://github.com/user-attachments/assets/864fb7bc-f0e1-4f6a-a65a-7ab4db7a1847)
 
 
