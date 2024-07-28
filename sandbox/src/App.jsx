@@ -1,90 +1,75 @@
-import "./styles.css";
+import React, { useEffect } from "react";
+import { MapContainer, TileLayer, Marker, useMap } from "react-leaflet";
+import L from "leaflet";
 import "leaflet/dist/leaflet.css";
-import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
-import MarkerClusterGroup from "react-leaflet-cluster";
+import "leaflet-routing-machine/dist/leaflet-routing-machine.css";
+import "leaflet-routing-machine";
+import "leaflet.animatedmarker/src/AnimatedMarker";
+import factory from "./icons/factory.png";
 
-import { Icon, divIcon, point } from "leaflet";
-
-// create custom icon
-const customIcon = new Icon({
-  //iconUrl: "https://cdn-icons-png.flaticon.com/512/447/447031.png",
-  iconUrl: "https://www.flaticon.com/free-icons/factory",
-  // <a href="https://www.flaticon.com/free-icons/factory"
-  // iconUrl: require("./icons/placeholder.png"),
-  iconSize: [38, 38], // size of the icon
-});
-
-// custom cluster icon
-const createClusterCustomIcon = function (cluster) {
-  return new divIcon({
-    html: `<span class="cluster-icon">${cluster.getChildCount()}</span>`,
-    className: "custom-marker-cluster",
-    iconSize: point(33, 33, true),
-  });
-};
-
-// markers
-const markers = [
-  {
-    geocode: [48.86, 2.3522],
-    popUp: "Hello, I am pop up 1",
-  },
-  {
-    geocode: [48.85, 2.3522],
-    popUp: "Hello, I am pop up 2",
-  },
-  {
-    geocode: [48.855, 2.34],
-    popUp: "Hello, I am pop up 3",
-  },
+const points = [
+  [51.505, -0.09],
+  [51.51, -0.1],
+  [51.51, -0.12],
 ];
 
-export default function App() {
+const customIcon = L.icon({
+  iconUrl: factory, // Make sure this path is correct
+  iconSize: [32, 32], // Size of the icon
+  iconAnchor: [16, 32], // Point of the icon which will correspond to marker's location
+  popupAnchor: [0, -32], // Point from which the popup should open relative to the iconAnchor
+});
+
+const Routing = () => {
+  const map = useMap();
+
+  useEffect(() => {
+    if (!map) return;
+    let animatedMarker;
+
+    const routingControl = L.Routing.control({
+      waypoints: points.map((point) => L.latLng(point[0], point[1])),
+      routeWhileDragging: true,
+    }).addTo(map);
+
+    routingControl.on("routesfound", function (e) {
+      const route = e.routes[0];
+      animatedMarker = L.animatedMarker(route.coordinates, {
+        autoStart: true,
+        interval: 1000,
+        // icon: customIcon,
+      });
+      map.addLayer(animatedMarker);
+    });
+
+    return () => {
+      map?.removeControl(routingControl);
+      if (animatedMarker) {
+        map?.removeControl(animatedMarker);
+      }
+    };
+  }, [map]);
+
+  return null;
+};
+
+const MapComponent = () => {
   return (
-    <MapContainer center={[48.8566, 2.3522]} zoom={13}>
-      {/* OPEN STREEN MAPS TILES */}
+    <MapContainer
+      center={[51.505, -0.09]}
+      zoom={13}
+      style={{ height: "600px", width: "100%" }}
+    >
       <TileLayer
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+        maxZoom={19}
       />
-      {/* WATERCOLOR CUSTOM TILES */}
-      {/* <TileLayer
-        attribution='Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        url="https://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.jpg"
-      /> */}
-      {/* GOOGLE MAPS TILES */}
-      {/* <TileLayer
-        attribution="Google Maps"
-        // url="http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}" // regular
-        // url="http://{s}.google.com/vt/lyrs=s,h&x={x}&y={y}&z={z}" // satellite
-        url="http://{s}.google.com/vt/lyrs=p&x={x}&y={y}&z={z}" // terrain
-        maxZoom={20}
-        subdomains={["mt0", "mt1", "mt2", "mt3"]}
-      /> */}
-
-      <MarkerClusterGroup
-        chunkedLoading
-        iconCreateFunction={createClusterCustomIcon}
-      >
-        {/* Mapping through the markers */}
-        {markers.map((marker) => (
-          <Marker position={marker.geocode} icon={customIcon}>
-            <Popup>{marker.popUp}</Popup>
-          </Marker>
-        ))}
-
-        {/* Hard coded markers */}
-        {/* <Marker position={[51.505, -0.09]} icon={customIcon}>
-          <Popup>This is popup 1</Popup>
-        </Marker>
-        <Marker position={[51.504, -0.1]} icon={customIcon}>
-          <Popup>This is popup 2</Popup>
-        </Marker>
-        <Marker position={[51.5, -0.09]} icon={customIcon}>
-          <Popup>This is popup 3</Popup>
-        </Marker>
-       */}
-      </MarkerClusterGroup>
+      {points.map((point, index) => (
+        <Marker key={index} position={point} icon={customIcon} />
+      ))}
+      <Routing />
     </MapContainer>
   );
-}
+};
+
+export default MapComponent;
