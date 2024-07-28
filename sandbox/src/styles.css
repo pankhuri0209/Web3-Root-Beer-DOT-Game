@@ -52,3 +52,15 @@
   position: relative !important;
   z-index: 99999999999 !important;
 }
+
+.custom-truck-icon .icon {
+  height: 72px !important;
+  width: 72px;
+}
+
+.custom-truck-icon .icon-label {
+  width: 700px !important;
+  display: block;
+  font-size: 16px;
+  font-weight: 500;
+}
