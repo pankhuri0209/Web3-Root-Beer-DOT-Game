@@ -8,7 +8,7 @@ const root = createRoot(rootElement);
 
 root.render(
   <StrictMode>
-    <h1>Polkadot Root Beer Game</h1>
+    <h1>Web3 Root Beer DOT Game</h1>
     <App />
   </StrictMode>
 );
