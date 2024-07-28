@@ -7,7 +7,9 @@ import { Icon, divIcon, point } from "leaflet";
 
 // create custom icon
 const customIcon = new Icon({
-  iconUrl: "https://cdn-icons-png.flaticon.com/512/447/447031.png",
+  //iconUrl: "https://cdn-icons-png.flaticon.com/512/447/447031.png",
+  iconUrl: "https://www.flaticon.com/free-icons/factory",
+  // <a href="https://www.flaticon.com/free-icons/factory"
   // iconUrl: require("./icons/placeholder.png"),
   iconSize: [38, 38], // size of the icon
 });
