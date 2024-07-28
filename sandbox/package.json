@@ -1,12 +1,17 @@
 {
-  "name": "react-leaflet-with-marker-cluster",
+  "name": "sandbox",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
+  "type": "module",
   "main": "src/index.js",
   "dependencies": {
     "@unique-nft/sdk": "^0.7.7",
     "@unique-nft/sr25519": "^0.0.2",
+    "dotenv": "^16.4.5",
+    "@unique-nft/sdk": "^0.7.7",
+    "@unique-nft/sr25519": "^0.0.2",
+    "buffer": "^6.0.3",
     "dotenv": "^16.4.5",
     "leaflet": "^1.9.4",
     "leaflet-routing-machine": "^3.2.12",
