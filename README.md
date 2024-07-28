@@ -47,7 +47,7 @@ https://youtu.be/LgSRfNK9fFg
 
 ![image](https://github.com/user-attachments/assets/602de056-9df4-4174-9928-f1045b47fed1)
 
-![image](https://github.com/user-attachments/assets/b840a536-fbb2-40df-8fa9-45bcde6360b6)
+![image](https://github.com/user-attachments/assets/232741e8-6070-4666-a16c-39297c90ca03)
 
 ![image](https://github.com/user-attachments/assets/864fb7bc-f0e1-4f6a-a65a-7ab4db7a1847)
 
