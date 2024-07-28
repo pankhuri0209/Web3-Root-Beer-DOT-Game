@@ -30,6 +30,7 @@ const play = async () => {
   // 1. Increment Victories to Winner
   const winnerToken = await sdk.token.getV2({collectionId: carsCollectionId, tokenId: winner});
   const winnerVictories = winnerToken.attributes.find(a => a.trait_type === "Victories").value;
+  
   console.log("Check!!", carsCollectionId, winner);
   console.log("Check!!", winnerToken.collectionId, winnerToken.tokenId);
   console.log("Check!!", typeof(winnerToken.collectionId), typeof(winnerToken.tokenId));

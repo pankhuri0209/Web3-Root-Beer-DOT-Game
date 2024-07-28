@@ -25,7 +25,7 @@ const Manufacturer_collection_id = 3291;
 
 root.render(
   <StrictMode>
-    <h1>React Leaflet Tutorial</h1>
+    <h1>Web3 Root Beer DOT Game - Team 1</h1>
     <App />
   </StrictMode>
 );
