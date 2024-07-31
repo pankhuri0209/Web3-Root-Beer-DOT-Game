@@ -15,11 +15,33 @@ WEB3 ROOTBEER DOT GAME is the Web 3 implementation of the supply chain excellenc
 This game develops skills in training but also improves operational efficiencies of supply chains by helping to identify and reduce Bullwhip effect.
 
 ## What is Bullwhip effect: 
-A small variation in demand near the demand end, can amplify in to larger demand / supply fluctuations as information passes from Retailer to Wholesaler to Distributor to Manufacturer. 
+A small variation in demand near the demand end, can amplify in to larger demand / supply fluctuations as information passes from Retailer to Wholesaler to Distributor to Manufacturer. The cost of individual entities include 
+             Inventory carrying cost ( Modelled at USD 1 per unit of inventory every week )
+             Stockout costs          ( Modelled at USD 2 per unit of stockout every week )
 
-## What does Bullwhip do:
-Bullwhips distort demand by reducing transparency on true demand and supply. They destroy financial planning and upsets cashflow optimization, the life blood of micro, small, medium enterprises who run more than 90% of world economdy.
+             
+## Game Structure:
 
+The information is set up for anonymized data share, and as 2 teams
+
+## Default:
+Team 1 - that plays in conventional ( web 2 mode ) - visibility to just adjacent nodes ( BLIND to true demand - A key issue in centralized systems ).
+Team 2 - that plays in fully chain transparency. ( facilitated by WEb 3 and DAG s as trust-minimized peer to peer solutions )
+
+## Assumption:
+The set up is a nested supply chain. There is a delay ( 2 weeks of lead time from the point of ordering)
+
+## The Goal:
+The game simulation runs for of X number of weeks 
+The goal is to reduce the bull whip effect for your entire supply chain - NOT jusf for your company.
+
+## The key aspect of the game is individual scores does not matter, it is the team's score that matter. Team with the lowest bullwhip score wins, and carries the NFT badges. 
+## Proof of membership in high performance chains are  CASH FLOW VALIDATIONS Institutional Defi is looking for. This increases the predictabiltiy for the financiers.
+
+## What does Bullwhip do ?
+Bullwhips distort demand by reducing transparency on true demand and supply. They destroy financial planning and upsets cashflow optimization, the life blood of micro, small, medium enterprises who run more than 90% of world economy. This unpredictabilty increases the validation risk for high volume stable financiers. Hence global SMEs have to resort to local most times predatory lending.
+
+## Current Limitations
 Though widely taught( in management schools and corporations, governments ), the current Web 2 version of the Root Beer game, though theoretically explained, is limited in actually showing them in actual decentralized network operations. Most Web2 systems are structurally constrained to only work well with adjacent nodes, which distorts demand, and centralized third-party solutions do not work well for business trust reasons.
 
 ## The RootBeer DOT GAME is the Web 3 enhanced implementation 
@@ -42,7 +64,6 @@ Though widely taught( in management schools and corporations, governments ), the
 ## Opening up PLAY to MANAGE and PLAY to FINANCE RWA themes.
 
 ![RootBeerGame](https://github.com/user-attachments/assets/df281259-21bd-4086-8be5-0b2914666fbe)
-
 
 
 ## Features
@@ -76,21 +97,13 @@ Key Features that the project needed that were available in the Unique network
 These features help highlight the accomplishement NFTs for global optimization traits as opposed to local optimization and earn network operations excellence badges.
 
 
-Game Structure:
-
-The information is set up for anonymized data share, and as 2 teams
-
-## Default:
-Team 1 - that plays in conventional ( web 2 mode ) - visibility to just adjacent nodes
-Team 2 - that plays in fully chain transparency
-
 Further extensions will include
 
-## Extensions to more than 2 teams with deep composabiltiy
-## Multi-chain parachains
-## ZK for proof abstractions off-chain
-## Integration to Risk Assessment Frameworks and value underwriting
-## Integration to Institutional Defi / Defi
+### Extensions to more than 2 teams with deep composabiltiy
+### Multi-chain parachains
+### ZK for proof abstractions off-chain
+### Integration to Risk Assessment Frameworks and value underwriting
+### Integration to Institutional Defi / Defi
 
 ![Logo](https://cashflowinventory.com/blog/wp-content/uploads/2023/03/Supply-Chain.jpg)
 
