@@ -31,9 +31,7 @@ Though widely taught( in management schools and corporations, governments ), the
 ## Features
 
 
-
-
-![UniqueNFTArch](https://github.com/user-attachments/assets/4863cf40-1f4e-464e-8d0d-4ebcc5aba677)
+![UniqueNFTArch](https://github.com/user-attachments/assets/6cc93fa7-1261-4237-a4fc-d97da0a1aed9)
 
 The project uses Unique network. Opal
  Testnet - This was uniquely needed for high volume NFTS, composable NFTs that specifically were needed for global optimization traits as opposed to local optimization and earn network operations excellence badges.
