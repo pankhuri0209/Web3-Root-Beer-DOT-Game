@@ -107,11 +107,11 @@ These features help highlight the accomplishement NFTs for global optimization t
 The basic game is expected to be open sourced.
 
 ## Business Model 
-  ## Training
-  ## Products and services
-  ## Templated NFTs - Software service
-  ## Cash optimization consulting - Fee
-  ## Best finance option routing - Fee
+  ##Training
+  ##Products and services
+  ##Templated NFTs - Software service
+  ##Cash optimization consulting - Fee
+  ##Best finance option routing - Fee
 
 ## Project Presentation in Canva
 
