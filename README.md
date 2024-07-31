@@ -75,10 +75,10 @@ The project is developed using the NFT Architecture in Unique network in OPAL Te
 
 ## Tech Stack
 
-##UniqueNetwork
-##React.js
-##Node.js
-##SUBwallet - OPL
+UniqueNetwork
+React.js
+Node.js
+SUBwallet - OPL
 
 ## Unique Network
 
