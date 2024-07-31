@@ -9,11 +9,15 @@ As a step in increasing WEB3 scale, both consumer small businesses, and  institu
 Though widely taught in management schools and corporations, the current Web 2  version of the games, though theoretically explained, is limited in actually showing them in actual decentralized network operations. Most Web2 systems are structurally constrained to only work well with adjacent nodes, which distorts demand, and centralized third-party solutions do not work well for business trust reasons. 
 The RootBeer DOT GAME is the Web 3 enhanced implementation of the widely taught (in most business schools, corporations, governments, web2 game that can take the concepts and enable RWAs at scale for supply chain/trade financing through NFT badges to identify high quality instruments to finance, based on reputation, and operational excellence badges, developed on DOT on the unique NFT architecture. These NFT badges serve as validation risk reduction indicators for financiers. 
 
-## IMPACT: Web 3 RootBeer game democratizes the training and accelerate brand, operational excellence NFTs to extend beyond cyrpto native collectibles to RWA tokenization of instruments such as Nativity, BioDiversity, Badges, Local heritage occupation / worker NFTs,  Proof of membership in high performance supply chains to broaden access to funding.  Opening up PLAY to MANAGE and PLAY to FINANCE RWA themes.
-
+## IMPACT: Web 3 RootBeer game 
+    ### democratizes the training and accelerate brand, operational excellence NFTs 
+    ### to extend beyond cyrpto native collectibles to RWA tokenization of instruments 
+    ### such as Nativity, BioDiversity, Badges, Local heritage occupation / worker NFTs,  Proof of membership in high performance supply chains 
+    ### to broaden access to funding.  
+    
+## Opening up PLAY to MANAGE and PLAY to FINANCE RWA themes.
 
 ![RootBeerGame](https://github.com/user-attachments/assets/df281259-21bd-4086-8be5-0b2914666fbe)
-
 
 ![Logo](https://cashflowinventory.com/blog/wp-content/uploads/2023/03/Supply-Chain.jpg)
 
