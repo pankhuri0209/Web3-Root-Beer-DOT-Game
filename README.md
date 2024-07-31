@@ -68,17 +68,15 @@ Though widely taught( in management schools and corporations, governments ), the
 
 ## Features
 
-
 ![UniqueNFTArch](https://github.com/user-attachments/assets/6cc93fa7-1261-4237-a4fc-d97da0a1aed9)
 
 The project is developed using the NFT Architecture in Unique network in OPAL Testnet
 
 ## Tech Stack
-
-UniqueNetwork
-React.js
-Node.js
-SUBwallet - OPL
+  UniqueNetwork
+  React.js
+  Node.js
+  SUBwallet - OPL
 
 ## Unique Network
 
