@@ -8,12 +8,29 @@ As a step in increasing WEB3 scale, both consumer small businesses, and  institu
 
 They need high scale low barrier to validations for business geniune-ness, credit worthiness, their contributions in heritage occupations and biodiversity and SUPPLY CHAIN OPERATIONAL EXCELLENCE , which are items that NFTs can move beyond crypto native collectibles.
 
+## What is Rootbeer game:
+
+WEB3 ROOTBEER DOT GAME is the Web 3 implementation of the supply chain excellence (originally ideated at MIT in 1960 and then developed in web2 by Harvard Publishing) that opens up a new avenue in Web 3 gaming for RWA @ scale for supply chain financing. 
+
+This game develops skills in training but also improves operational efficiencies of supply chains by helping to identify and reduce Bullwhip effect.
+
+## What is Bullwhip effect: 
+A small variation in demand near the demand end, can amplify in to larger demand / supply fluctuations as information passes from Retailer to Wholesaler to Distributor to Manufacturer. 
+
+## What does Bullwhip do:
+Bullwhips distort demand by reducing transparency on true demand and supply. They destroy financial planning and upsets cashflow optimization, the life blood of micro, small, medium enterprises who run more than 90% of world economdy.
+
 Though widely taught( in management schools and corporations, governments ), the current Web 2 version of the Root Beer game, though theoretically explained, is limited in actually showing them in actual decentralized network operations. Most Web2 systems are structurally constrained to only work well with adjacent nodes, which distorts demand, and centralized third-party solutions do not work well for business trust reasons.
 
 ## The RootBeer DOT GAME is the Web 3 enhanced implementation 
     to extend NFTs beyond cyrpto-native concepts to RWAs and institutional Defi at scale for supply chain/trade financing 
     through NFT badges to identify high quality instruments to finance, based on reputation, and operational excellence badges, 
     developed on DOT on the unique NFT architecture. 
+
+    Goals of the game 
+    to train on advanced web3 based trust minimized full visibility supply chains
+    reduce bull whip effect
+    
 ## These NFT badges serve as validation risk reduction indicators for financiers. 
 
 ## IMPACT: Web 3 RootBeer game 
