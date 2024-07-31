@@ -33,26 +33,49 @@ Though widely taught( in management schools and corporations, governments ), the
 
 ![UniqueNFTArch](https://github.com/user-attachments/assets/6cc93fa7-1261-4237-a4fc-d97da0a1aed9)
 
-The project uses Unique network. Opal
- Testnet - This was uniquely needed for high volume NFTS, composable NFTs that specifically were needed for global optimization traits as opposed to local optimization and earn network operations excellence badges.
+The project is developed using the NFT Architecture in Unique network in OPAL Testnet
+
+## Tech Stack
+
 UniqueNetwork
 React.js
 Node.js
 SUBwallet - OPL
 
+## Unique Network
+
+Key Features that the project needed that were available in the Unique network
+
+    High volume Low Cost NFTs for 
+        Brand, Compliance NFTS : for Nativity, Heritage Badges etc
+        Modelling Team level structures - Nested NFTs
+            Team consisting of vertically integrated supply chains - This specifically fits within the scheme of persenting Network operational Excellence NFTs in Deep supply chains
+        Dynamic NFTs : To keep scores at the individual and team levels.
+        Customizing NFTS : To show operational excellence by proof of participation in high performance supply chains and badges 
+
+    For the purpose of RWA instruments for supply chain financing.
+
+
+These features help highlight the accomplishement NFTs for global optimization traits as opposed to local optimization and earn network operations excellence badges.
+
+
+Game Structure:
+
 The information is set up for anonymized data share, and as 2 teams
 
-Default:
+## Default:
 Team 1 - that plays in conventional ( web 2 mode ) - visibility to just adjacent nodes
 Team 2 - that plays in fully chain transparency
 
 Further extensions will include
-Multi-chain parachains
-ZK for proof abstractions off-chain
+
+## Extensions to more than 2 teams with deep composabiltiy
+## Multi-chain parachains
+## ZK for proof abstractions off-chain
+## Integration to Risk Assessment Frameworks and value underwriting
+## Integration to Institutional Defi / Defi
 
 ![Logo](https://cashflowinventory.com/blog/wp-content/uploads/2023/03/Supply-Chain.jpg)
-
-
 
 ## Project Presentation in Canva
 
