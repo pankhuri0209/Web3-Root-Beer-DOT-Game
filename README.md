@@ -3,16 +3,14 @@
 WEB3 ROOTBEER DOT GAME is the Web 3 implementation of the supply chain excellence (originally ideated at MIT in 1960 and then developed in web2 by Harvard Publishing) that opens up a new avenue in Web 3 gaming for RWA @ scale for supply chain financing.
 
 ## About the Project
-
+[
 As a step in increasing WEB3 scale, both consumer small businesses, and  institutions want to enter the supply chain /trade financing space, which is documented to be a 2-3 trillion-dollar gap in supply chain finance in developing countries. They need high scale low barrier to validations for business geniune-ness, credit worthiness, their contributions in heritage occupations and biodiversity and SUPPLY CHAIN OPERATIONAL EXCELLENCE , which are items that NFTs can move beyond crypto native collectibles.
 
 Though widely taught in management schools and corporations, the current Web 2  version of the games, though theoretically explained, is limited in actually showing them in actual decentralized network operations. Most Web2 systems are structurally constrained to only work well with adjacent nodes, which distorts demand, and centralized third-party solutions do not work well for business trust reasons. 
 The RootBeer DOT GAME is the Web 3 enhanced implementation of the widely taught (in most business schools, corporations, governments, web2 game that can take the concepts and enable RWAs at scale for supply chain/trade financing through NFT badges to identify high quality instruments to finance, based on reputation, and operational excellence badges, developed on DOT on the unique NFT architecture. These NFT badges serve as validation risk reduction indicators for financiers. 
 
-## IMPACT: Web 3 RootBeer game can democratize the training and accelerate brand, operational excellence NFTs to extend beyond cyrpto native collectibles to RWA tokenization of instruments such as Nativity, BioDiversity, Badges, Local heritage occupation / worker NFTs,  Proof of membership in high performance supply chains to broaden access to funding.  Opening up PLAY to MANAGE and PLAY to FINANCE RWA themes.
-
-
-
+## IMPACT: Web 3 RootBeer game democratizes the training and accelerate brand, operational excellence NFTs to extend beyond cyrpto native collectibles to RWA tokenization of instruments such as Nativity, BioDiversity, Badges, Local heritage occupation / worker NFTs,  Proof of membership in high performance supply chains to broaden access to funding.  Opening up PLAY to MANAGE and PLAY to FINANCE RWA themes.
+]
 [Logo](https://cashflowinventory.com/blog/wp-content/uploads/2023/03/Supply-Chain.jpg)
 
 ## Features
