@@ -10,10 +10,10 @@ Though widely taught in management schools and corporations, the current Web 2  
 The RootBeer DOT GAME is the Web 3 enhanced implementation of the widely taught (in most business schools, corporations, governments, web2 game that can take the concepts and enable RWAs at scale for supply chain/trade financing through NFT badges to identify high quality instruments to finance, based on reputation, and operational excellence badges, developed on DOT on the unique NFT architecture. These NFT badges serve as validation risk reduction indicators for financiers. 
 
 ## IMPACT: Web 3 RootBeer game 
-    ### democratizes the training and accelerate brand, operational excellence NFTs 
-    ### to extend beyond cyrpto native collectibles to RWA tokenization of instruments 
-    ### such as Nativity, BioDiversity, Badges, Local heritage occupation / worker NFTs,  Proof of membership in high performance supply chains 
-    ### to broaden access to funding.  
+    ## democratizes the training and accelerate brand, operational excellence NFTs 
+    ## to extend beyond cyrpto native collectibles to RWA tokenization of instruments 
+    ## such as Nativity, BioDiversity, Badges, Local heritage occupation / worker NFTs,  Proof of membership in high performance supply chains 
+    ## to broaden access to funding.  
     
 ## Opening up PLAY to MANAGE and PLAY to FINANCE RWA themes.
 
