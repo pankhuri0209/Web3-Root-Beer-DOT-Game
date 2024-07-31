@@ -10,7 +10,10 @@ They need high scale low barrier to validations for business geniune-ness, credi
 
 Though widely taught( in management schools and corporations, governments ), the current Web 2 version of the Root Beer game, though theoretically explained, is limited in actually showing them in actual decentralized network operations. Most Web2 systems are structurally constrained to only work well with adjacent nodes, which distorts demand, and centralized third-party solutions do not work well for business trust reasons.
 
-## The RootBeer DOT GAME is the Web 3 enhanced implementation to extend NFTs beyond cyrpto-native concepts to RWAs and institutional Defi at scale for supply chain/trade financing through NFT badges to identify high quality instruments to finance, based on reputation, and operational excellence badges, developed on DOT on the unique NFT architecture. 
+## The RootBeer DOT GAME is the Web 3 enhanced implementation 
+    to extend NFTs beyond cyrpto-native concepts to RWAs and institutional Defi at scale for supply chain/trade financing 
+    through NFT badges to identify high quality instruments to finance, based on reputation, and operational excellence badges, 
+    developed on DOT on the unique NFT architecture. 
 ## These NFT badges serve as validation risk reduction indicators for financiers. 
 
 ## IMPACT: Web 3 RootBeer game 
