@@ -10,7 +10,8 @@ They need high scale low barrier to validations for business geniune-ness, credi
 
 Though widely taught( in management schools and corporations, governments ), the current Web 2 version of the Root Beer game, though theoretically explained, is limited in actually showing them in actual decentralized network operations. Most Web2 systems are structurally constrained to only work well with adjacent nodes, which distorts demand, and centralized third-party solutions do not work well for business trust reasons.
 
-## The RootBeer DOT GAME is the Web 3 enhanced implementation to extend NFTs beyond cyrpto-native concepts to RWAs and institutional Defi at scale for supply chain/trade financing through NFT badges to identify high quality instruments to finance, based on reputation, and operational excellence badges, developed on DOT on the unique NFT architecture. These NFT badges serve as validation risk reduction indicators for financiers. 
+## The RootBeer DOT GAME is the Web 3 enhanced implementation to extend NFTs beyond cyrpto-native concepts to RWAs and institutional Defi at scale for supply chain/trade financing through NFT badges to identify high quality instruments to finance, based on reputation, and operational excellence badges, developed on DOT on the unique NFT architecture. 
+## These NFT badges serve as validation risk reduction indicators for financiers. 
 
 ## IMPACT: Web 3 RootBeer game 
     ## democratizes the training and accelerate brand, operational excellence NFTs 
@@ -22,7 +23,7 @@ Though widely taught( in management schools and corporations, governments ), the
 
 ![RootBeerGame](https://github.com/user-attachments/assets/df281259-21bd-4086-8be5-0b2914666fbe)
 
-![Logo](https://cashflowinventory.com/blog/wp-content/uploads/2023/03/Supply-Chain.jpg)
+
 
 ## Features
 
@@ -41,6 +42,10 @@ Team 2 - that plays in fully chain transparency
 Further extensions will include
 Multi-chain parachains
 ZK for proof abstractions off-chain
+
+![Logo](https://cashflowinventory.com/blog/wp-content/uploads/2023/03/Supply-Chain.jpg)
+
+
 
 ![image](https://github.com/user-attachments/assets/7bc0261a-1835-499e-a5a9-462829a5d1b7)
 
