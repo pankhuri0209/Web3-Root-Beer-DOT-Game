@@ -47,10 +47,7 @@ ZK for proof abstractions off-chain
 
 
 
-![image](https://github.com/user-attachments/assets/7bc0261a-1835-499e-a5a9-462829a5d1b7)
-
-
-## References
+## Project Presentation in Canva
 
 https://www.canva.com/design/DAGMN45zbkw/ccjFXDCS5UbSkpLWk81Wqw/view?utm_content=DAGMN45zbkw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
 
