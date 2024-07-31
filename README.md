@@ -30,7 +30,13 @@ Though widely taught( in management schools and corporations, governments ), the
 
 ## Features
 
-The project uses Unique network. Opal Testnet - This was uniquely needed for high volume NFTS, composable NFTs that specifically were needed for global optimization traits as opposed to local optimization and earn network operations excellence badges.
+
+
+
+![UniqueNFTArch](https://github.com/user-attachments/assets/4863cf40-1f4e-464e-8d0d-4ebcc5aba677)
+
+The project uses Unique network. Opal
+ Testnet - This was uniquely needed for high volume NFTS, composable NFTs that specifically were needed for global optimization traits as opposed to local optimization and earn network operations excellence badges.
 UniqueNetwork
 React.js
 Node.js
