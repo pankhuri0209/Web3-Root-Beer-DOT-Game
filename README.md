@@ -96,14 +96,13 @@ Key Features that the project needed that were available in the Unique network
 
 These features help highlight the accomplishement NFTs for global optimization traits as opposed to local optimization and earn network operations excellence badges.
 
-
 Further extensions will include
 
-### Extensions to more than 2 teams with deep composabiltiy
-### Multi-chain parachains
-### ZK for proof abstractions off-chain
-### Integration to Risk Assessment Frameworks and value underwriting
-### Integration to Institutional Defi / Defi
+# Extensions to more than 2 teams with deep composabiltiy
+# Multi-chain parachains
+# ZK for proof abstractions off-chain
+# Integration to Risk Assessment Frameworks and value underwriting
+# Integration to Institutional Defi / Defi
 
 ![Logo](https://cashflowinventory.com/blog/wp-content/uploads/2023/03/Supply-Chain.jpg)
 
